@@ -1,0 +1,6 @@
+Flask
+flask_pymongo
+flask_cors
+dnspython
+pytest
+pytest-flask
